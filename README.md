@@ -1,4 +1,4 @@
-# SeconRideShare
+# SecondRideShare
 Before Ruby on Rails Ride Share Project 
 
 A little bit about the learning goals in this exercise: 
